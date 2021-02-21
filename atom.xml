@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZAI-TXZ.github.io</id>
     <title>Blog For Zai</title>
-    <updated>2021-02-21T15:50:25.975Z</updated>
+    <updated>2021-02-21T15:57:19.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZAI-TXZ.github.io"/>
     <link rel="self" href="https://ZAI-TXZ.github.io/atom.xml"/>
@@ -16,9 +16,11 @@
         <link href="https://ZAI-TXZ.github.io/post/di-yi-pian-blog-in-gridea/">
         </link>
         <updated>2021-02-21T15:06:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是摘要</p>
+        <summary type="html"><![CDATA[<pre><code>这是摘要
+</code></pre>
 ]]></summary>
-        <content type="html"><![CDATA[<p>这是摘要</p>
+        <content type="html"><![CDATA[<pre><code>这是摘要
+</code></pre>
 <!-- more -->
 <p>这是一个<strong>1级</strong>标题</p>
 <h1 id="title">Title</h1>
@@ -28,7 +30,14 @@
 <p>这里是一个单句<strong>代码</strong> 返单引号<br>
 <code>System.out.println(&quot;Hello Gridea&quot;);</code><br>
 这里是一个<strong>代码块</strong> 返单引号</p>
-<p><code>public class HelloGridea{ public static void main(String[] args){ System.out.println(&quot;Hello Gridea&quot;); } }</code></p>
+<pre><code>这是一个代码
+块？
+Hello 
+</code></pre>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">1+1 = 2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span></p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>w</mi><mi>h</mi><mi>a</mi><mi>t</mi><mo>−</mo><mi>i</mi><mi>s</mi><mo>−</mo><mi>t</mi><mi>h</mi><mi>i</mi><mi>s</mi><mo>?</mo></mrow><annotation encoding="application/x-tex">what -is - this?
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="mord mathdefault" style="margin-right:0.02691em;">w</span><span class="mord mathdefault">h</span><span class="mord mathdefault">a</span><span class="mord mathdefault">t</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">i</span><span class="mord mathdefault">s</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">t</span><span class="mord mathdefault">h</span><span class="mord mathdefault">i</span><span class="mord mathdefault">s</span><span class="mclose">?</span></span></span></span></span></p>
+<p><s>Delete</s></p>
 ]]></content>
     </entry>
 </feed>
