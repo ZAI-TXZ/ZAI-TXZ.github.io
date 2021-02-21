@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZAI-TXZ.github.io</id>
     <title>Blog For Zai</title>
-    <updated>2021-02-21T15:47:10.794Z</updated>
+    <updated>2021-02-21T15:49:42.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZAI-TXZ.github.io"/>
     <link rel="self" href="https://ZAI-TXZ.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://ZAI-TXZ.github.io/post/di-yi-pian-blog-in-gridea/">
         </link>
         <updated>2021-02-21T15:06:58.000Z</updated>
-        <content type="html"><![CDATA[<!--摘要-->
+        <summary type="html"><![CDATA[<p>这是摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是摘要</p>
+<!-- more -->
 <p>这是一个<strong>1级</strong>标题</p>
 <h1 id="title">Title</h1>
 <p>这是一个<strong>2级</strong>标题</p>
